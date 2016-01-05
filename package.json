@@ -10,7 +10,7 @@
     "email" : "me@bensarmiento.com"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Warning: no test specified\""
   },
   "author": "Ben Sarmiento <me@bensarmiento.com>",
   "license": "ISC",
