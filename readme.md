@@ -1,5 +1,7 @@
 # ultimate-werewolf-slack
 
+[![Build Status](https://travis-ci.org/yowmamasita/ultimate-werewolf-slack.svg?branch=master)](https://travis-ci.org/yowmamasita/ultimate-werewolf-slack)
+
 A bot that moderates Ultimate Werewolf games (3-8 players)
 
 Inspired by [chrisgillis/slackwolf](https://github.com/chrisgillis/slackwolf) but this one plays the [One Night Ultimate Werewolf](https://boardgamegeek.com/boardgame/147949/one-night-ultimate-werewolf) variation. Supported roles are: `Werewolf`, `Minion`, `Seer`, `Robber`, `Troublemaker`, `Drunk`, `Insomniac`, `Villager`. You can download the rulebook [here](https://drive.google.com/file/d/0BzzjKoXCqlyubTUxZFRPblFoMFU/view?usp=sharing).
