@@ -1,0 +1,5 @@
+language: node_js
+node_js:
+  - "4.1"
+env:
+- SLACK_API_TOKEN=token_here
