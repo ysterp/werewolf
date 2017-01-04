@@ -1,0 +1,26 @@
+{
+  "name": "Salesforcebot",
+  "description": "Salesforce bot for Slack",
+  "env": {
+    "SF_CLIENT_ID": {
+        "description": "Client Id of your Salesforce Connected App",
+        "value":""
+    },
+    "SF_CLIENT_SECRET": {
+        "description": "Secret of your Salesforce Connected App",
+        "value":""
+    },
+    "SF_USER_NAME": {
+        "description": "Salesforce username for your integration user",
+        "value":""
+    },
+    "SF_PASSWORD": {
+        "description": "Salesforce password for your integration user",
+        "value":""
+	}
+    "SF_SLACK_BOT_TOKEN": {
+        "description": "Slack token for the case slash command",
+        "value":""
+    }
+  }
+}
