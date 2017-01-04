@@ -2,7 +2,7 @@
   "name": "Werewolfbot",
   "description": "Werewolf bot for Slack",
   "env": {
-    "SLACK_BOT_TOKEN": {
+    "SLACK_API_TOKEN": {
         "description": "Slack token for API access",
         "value":""
     }
